@@ -1,6 +1,6 @@
 /*
  * test.ServerCordinator.cpp
- *
+ * This file is only for functional test
  *  Created on: May 30, 2015
  *      Author: zlin
  */
