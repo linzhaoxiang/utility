@@ -1,6 +1,6 @@
 /*
  * test.CacheCluster.cpp
- * this file is for functional test only
+ * this file is for functional test only.
  *  Created on: Jun 21, 2015
  *      Author: zlin
  */
